@@ -1,0 +1,18 @@
+Script started on 2023-02-20 12:45:50-08:00
+^[[A^[[A]0;marcosta@WWWSTU-P01:~/hw2marcosta@WWWSTU-P01:~/hw2> nano pipe.c[5P./pipe[K[K[K[K[K[K./distance
+Please enter two distance values m1, y1, f1, i1, m2, y2, f2, and i2.
+i1: 18
+f1: 7
+y1: 1820
+m1: 10
+Distance 1 is 11 miles, 62 yards, 2 feet, 6 inches.
+i2: 16
+f2: 4
+y2: 3480
+m2: 5
+Distance 2 is 6 miles, 1721 yards, 2 feet, 4 inches.
+The sum of the distances is 18 miles, 24 yards, 1 feet, and 10 inches.
+]0;marcosta@WWWSTU-P01:~/hw2marcosta@WWWSTU-P01:~/hw2> exit
+exit
+
+Script done on 2023-02-20 12:46:17-08:00

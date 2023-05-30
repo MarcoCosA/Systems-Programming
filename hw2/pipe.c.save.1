@@ -1,0 +1,31 @@
+/* pipe.c a program that calculates the volume and   */
+/* thickness of a pipe                               */
+/* author: Marco Costa                               */
+/*                                                   */
+/* modifications:                                    */
+/* 02/09/23 Initial Version                          */
+
+#include <stdio.h>
+
+#define PI 3.14159265359
+int main()
+{
+    float r = 0; /* input inner radius */
+    float R = 0; /* input outer radius */
+    float L = 0; /* input length       */
+
+    printf("\nPlease enter the inner radius of the pipe (r): ");
+    scanf("%f", &r);
+    printf("\nPlease enter the outer radius of the pipe (R): ");
+    scanf("%f", &R);
+    printf("\nPlease enter the length of the pipe (L): ");
+    scanf("%f", &L);
+
+    float thickness = R - r;
+    float volume = PI * r*r * L;
+    printf("\nThe thickness of the pipe is: %f", thickness);
+    printf("\nThe volume of the pipe is: %f", volume);
+
+    return 0;
+}
+

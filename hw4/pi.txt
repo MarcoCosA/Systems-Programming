@@ -1,0 +1,1 @@
+Yes. The area of the quarter-circle divided by the area of the square is pi/4. Therefore, the probability of a point landing within the quart-circle is pi/4. Randomly generating a large number of points and checking if they are within the area of the circle will yield an estimation of pi/4.

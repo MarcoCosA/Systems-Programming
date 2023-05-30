@@ -1,0 +1,1 @@
+The program initials.c prints the initials of my name "Marco Costa" in the form of letters made of smaller letters.

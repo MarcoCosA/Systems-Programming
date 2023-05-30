@@ -1,0 +1,1 @@
+Roulette.c is a program that allows the user to play a simplified version of roulette. It uses a while loop endlessly prompt the user for bets. It does not contain any error checking.

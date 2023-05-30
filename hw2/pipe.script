@@ -1,0 +1,12 @@
+Script started on 2023-02-24 21:56:45-08:00
+]0;marcosta@WWWSTU-P01:~/hw2marcosta@WWWSTU-P01:~/hw2> ./pipe
+
+Please enter the inner radius of the pipe (r): 4.3   3.2
+Please enter the outer radius of the pipe (R): 4.2
+Please enter the length of the pipe (L): 4
+The thickness of the pipe is: 1.000000
+The volume of the pipe is: 92.991104
+]0;marcosta@WWWSTU-P01:~/hw2marcosta@WWWSTU-P01:~/hw2> ./pipe[2Pexit
+exit
+
+Script done on 2023-02-24 21:56:59-08:00

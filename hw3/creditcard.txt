@@ -1,0 +1,1 @@
+creditcard.c is a program that uses user input to give a snapshot of what it might look like to pay off a credit card debt overtime. It uses a while loop to calculate the monthly payments.

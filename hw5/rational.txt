@@ -1,0 +1,1 @@
+Rational.c is a program that receives input from the user to perform operations on a given fraction. The operations supported are: addition, subtraction, multiplication, division and taking the reciprocal.

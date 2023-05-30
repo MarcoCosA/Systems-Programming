@@ -1,0 +1,116 @@
+Script started on 2023-03-10 10:35:29-08:00
+]0;marcosta@WWWSTU-P01:~/hw4marcosta@WWWSTU-P01:~/hw4> .[K./pi
+Enter the radius of circle: 10
+Enter the number of points: 010   100
+
+Point No.1 (x=2.782791,y=12.016830): IN
+Point No.2 (x=19.604190,y=2.713246): IN
+Point No.3 (x=19.661849,y=17.749677): IN
+Point No.4 (x=7.442724,y=15.706391): IN
+Point No.5 (x=18.501868,y=17.791623): IN
+Point No.6 (x=7.194404,y=2.184601): OUT
+Point No.7 (x=0.849357,y=8.638777): IN
+Point No.8 (x=15.732315,y=1.652490): IN
+Point No.9 (x=15.484635,y=11.795124): IN
+Point No.10 (x=7.901353,y=16.861717): OUT
+Point No.11 (x=6.372149,y=19.849963): OUT
+Point No.12 (x=9.547654,y=11.984121): IN
+Point No.13 (x=7.056143,y=14.197843): IN
+Point No.14 (x=18.061789,y=3.732933): IN
+Point No.15 (x=9.162288,y=15.804551): OUT
+Point No.16 (x=18.019696,y=11.945079): IN
+Point No.17 (x=7.821382,y=17.623886): OUT
+Point No.18 (x=14.658326,y=7.483231): IN
+Point No.19 (x=15.373563,y=2.101050): IN
+Point No.20 (x=3.189622,y=13.875432): IN
+Point No.21 (x=19.892673,y=10.384026): IN
+Point No.22 (x=16.060033,y=0.742029): OUT
+Point No.23 (x=19.022803,y=11.792348): IN
+Point No.24 (x=2.394520,y=14.507438): IN
+Point No.25 (x=3.587471,y=10.295873): IN
+Point No.26 (x=11.369155,y=9.959620): IN
+Point No.27 (x=10.145836,y=0.916809): OUT
+Point No.28 (x=1.943741,y=17.201979): IN
+Point No.29 (x=15.114652,y=0.005530): OUT
+Point No.30 (x=0.934912,y=4.276941): IN
+Point No.31 (x=15.810081,y=18.954608): IN
+Point No.32 (x=16.222020,y=3.631463): IN
+Point No.33 (x=16.578494,y=10.880346): IN
+Point No.34 (x=11.114694,y=11.952057): IN
+Point No.35 (x=12.981396,y=14.304316): IN
+Point No.36 (x=5.827489,y=12.874069): IN
+Point No.37 (x=4.688341,y=1.887521): IN
+Point No.38 (x=13.616098,y=3.711144): IN
+Point No.39 (x=13.679869,y=16.010618): IN
+Point No.40 (x=18.218582,y=17.267340): IN
+Point No.41 (x=6.306491,y=9.587737): IN
+Point No.42 (x=7.226961,y=16.452326): IN
+Point No.43 (x=10.504546,y=9.170702): IN
+Point No.44 (x=13.654305,y=5.619198): IN
+Point No.45 (x=9.176232,y=14.589218): OUT
+Point No.46 (x=9.896139,y=4.986314): OUT
+Point No.47 (x=13.543825,y=6.118159): IN
+Point No.48 (x=8.617777,y=10.122319): IN
+Point No.49 (x=16.998504,y=19.732470): OUT
+Point No.50 (x=2.074376,y=9.979900): IN
+Point No.51 (x=14.036786,y=7.901865): IN
+Point No.52 (x=2.853969,y=18.725127): IN
+Point No.53 (x=9.789386,y=16.470067): OUT
+Point No.54 (x=2.436272,y=3.469255): IN
+Point No.55 (x=12.480685,y=0.654854): OUT
+Point No.56 (x=0.736596,y=18.787176): IN
+Point No.57 (x=10.242591,y=7.963557): IN
+Point No.58 (x=15.239502,y=0.747137): OUT
+Point No.59 (x=17.134258,y=8.893808): IN
+Point No.60 (x=6.366335,y=6.310491): IN
+Point No.61 (x=3.483025,y=16.262473): IN
+Point No.62 (x=11.296804,y=17.026851): OUT
+Point No.63 (x=2.380632,y=19.914581): OUT
+Point No.64 (x=7.149170,y=19.379136): OUT
+Point No.65 (x=19.647051,y=9.223546): IN
+Point No.66 (x=9.359036,y=13.683837): OUT
+Point No.67 (x=17.125411,y=12.213005): IN
+Point No.68 (x=12.408965,y=6.914797): IN
+Point No.69 (x=8.683072,y=14.845237): IN
+Point No.70 (x=10.384052,y=1.163758): OUT
+Point No.71 (x=15.500091,y=11.120648): IN
+Point No.72 (x=19.950934,y=5.742682): IN
+Point No.73 (x=19.084205,y=15.190436): IN
+Point No.74 (x=6.489818,y=16.218463): IN
+Point No.75 (x=4.084244,y=12.856153): IN
+Point No.76 (x=2.528954,y=7.567269): IN
+Point No.77 (x=9.118626,y=13.825758): IN
+Point No.78 (x=4.594120,y=11.499258): IN
+Point No.79 (x=13.740339,y=11.743290): IN
+Point No.80 (x=10.878394,y=13.387390): IN
+Point No.81 (x=0.966836,y=0.237431): IN
+Point No.82 (x=7.071227,y=18.092247): OUT
+Point No.83 (x=12.450436,y=19.480191): OUT
+Point No.84 (x=5.007044,y=1.133509): OUT
+Point No.85 (x=14.325428,y=15.391097): IN
+Point No.86 (x=2.297266,y=9.825518): IN
+Point No.87 (x=6.511745,y=2.248200): OUT
+Point No.88 (x=15.568200,y=5.595950): IN
+Point No.89 (x=17.438636,y=2.058018): IN
+Point No.90 (x=1.814413,y=1.522880): IN
+Point No.91 (x=14.914171,y=4.343367): IN
+Point No.92 (x=9.090149,y=4.032797): OUT
+Point No.93 (x=18.169124,y=13.684269): IN
+Point No.94 (x=15.532056,y=11.909463): IN
+Point No.95 (x=5.427560,y=6.410450): IN
+Point No.96 (x=5.296853,y=6.394396): IN
+Point No.97 (x=6.647881,y=12.368079): IN
+Point No.98 (x=4.486643,y=19.098317): OUT
+Point No.99 (x=11.848271,y=9.493688): IN
+Point No.100 (x=0.231826,y=6.173699): IN
+
+/******In Summary******/
+Points within circle areas: 75
+Points out of circle areas: 25
+PI= 3.000000
+]0;marcosta@WWWSTU-P01:~/hw4marcosta@WWWSTU-P01:~/hw4> exirt
+bash: exirt: command not found
+]0;marcosta@WWWSTU-P01:~/hw4marcosta@WWWSTU-P01:~/hw4> exirt[1Pt
+exit
+
+Script done on 2023-03-10 10:35:48-08:00

@@ -1,0 +1,135 @@
+Script started on 2023-03-17 11:11:10-07:00
+./]0;marcosta@WWWSTU-P01:~/hw5marcosta@WWWSTU-P01:~/hw5> ./rational
+Welcome to my rational number calculator!
+Please input a rational number.
+Numerator: 1
+Denominator: 6
+
+--------------------------------------------
+The current result is: 1/6
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+1
+Please input a rational number.
+Numerator: -77
+Denominator: 6
+
+--------------------------------------------
+The current result is: 13
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+2
+Please input a rational number.
+Numerator: 4
+Denominator: 7
+
+--------------------------------------------
+The current result is: 95/7
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+3
+Please input a rational number.
+Numerator: -3
+Denominator: 5
+
+--------------------------------------------
+The current result is: -57/7
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+4
+Please input a rational number.
+Numerator: 2
+Denominator: 3
+
+--------------------------------------------
+The current result is: -171/14
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+5
+
+--------------------------------------------
+The current result is: -14/171
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+5
+
+--------------------------------------------
+The current result is: -171/14
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+2
+Please input a rational number.
+Numerator: 215
+Denominator: 14
+
+--------------------------------------------
+The current result is: 22/7
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+2
+Please input a rational number.
+Numerator: 9
+Denominator: 0
+ERROR: Denominator cannot be zero!
+Denominator: 1
+
+--------------------------------------------
+The current result is: 85/7
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+4
+Please input a rational number.
+Numerator: 0
+ERROR: Division by zero!
+Numerator: 1
+Denominator: 8
+
+--------------------------------------------
+The current result is: 680/7
+1. Subtract a rational number from the current result;
+2. Add a rational number to the current result;
+3. Multiply the current result by a rational number;
+4. Divide the current result by a rational number;
+5. Take the reciprocal of the current result;
+6. Quit
+6
+]0;marcosta@WWWSTU-P01:~/hw5marcosta@WWWSTU-P01:~/hw5> exit
+exit
+
+Script done on 2023-03-17 11:12:18-07:00

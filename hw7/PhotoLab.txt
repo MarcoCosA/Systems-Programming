@@ -1,0 +1,1 @@
+PhotoLab.c uses Image.c which is a C program that uses a struct to store data on an image. PhotoLab.c then uses this information to manipulate wilson.ppm in a variety of ways.

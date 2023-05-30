@@ -1,0 +1,23 @@
+Script started on 2023-03-10 10:34:09-08:00
+]0;marcosta@WWWSTU-P01:~/hw4marcosta@WWWSTU-P01:~/hw4> ./roulette.[K
+Entering the casino, how much money do you have? $1000
+We are playing Roulette, odd or even bets only.
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 1
+How much money do you want to bet? $100
+You bet $100.00 on odd numbers.
+The winning number is 7!
+You Win!
+Your balance is $1100.00!!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money do you want to bet? $100
+You bet $100.00 on odd numbers.
+The winning number is 34!
+You Win!
+Your balance is $1200.00!!
+Enter 1 for odd, 2 for even, 0 to quit: 0
+Your exit the casino $1200.00
+]0;marcosta@WWWSTU-P01:~/hw4marcosta@WWWSTU-P01:~/hw4> script[K[K[K[K[K[Kexit
+exit
+
+Script done on 2023-03-10 10:34:32-08:00

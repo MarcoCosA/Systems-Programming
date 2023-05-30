@@ -1,0 +1,51 @@
+Script started on 2023-04-04 08:31:28-07:00
+]0;marcosta@WWWSTU-P01:~/hw6marcosta@WWWSTU-P01:~/hw6> ./PhotoLab
+wilson.ppm was read successfully!
+aging.ppm was saved successfully. 
+aging.jpg was stored for viewing. 
+Aging tested!
+
+wilson.ppm was read successfully!
+bw.ppm was saved successfully. 
+bw.jpg was stored for viewing. 
+Black and white tested!
+
+wilson.ppm was read successfully!
+negative.ppm was saved successfully. 
+negative.jpg was stored for viewing. 
+Negative tested!
+
+wilson.ppm was read successfully!
+vflip.ppm was saved successfully. 
+vflip.jpg was stored for viewing. 
+Vertical flip tested!
+
+wilson.ppm was read successfully!
+hmirror.ppm was saved successfully. 
+hmirror.jpg was stored for viewing. 
+Horizontal mirror tested!
+
+wilson.ppm was read successfully!
+sharpen.ppm was saved successfully. 
+sharpen.jpg was stored for viewing. 
+Sharpen tested!
+
+wilson.ppm was read successfully!
+xRB.ppm was saved successfully. 
+xRB.jpg was stored for viewing. 
+xRB tested!
+
+wilson.ppm was read successfully!
+noise.ppm was saved successfully. 
+noise.jpg was stored for viewing. 
+Noise tested!
+
+wilson.ppm was read successfully!
+border.ppm was saved successfully. 
+border.jpg was stored for viewing. 
+Border tested!
+
+]0;marcosta@WWWSTU-P01:~/hw6marcosta@WWWSTU-P01:~/hw6> exit
+exit
+
+Script done on 2023-04-04 08:31:37-07:00
